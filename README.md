@@ -1,4 +1,4 @@
-# Global AI Cost Estimation and Quotation Platform
+# CostCalc — Global AI Cost Estimation and Quotation Platform
 
 ## 1. Project Overview
 
